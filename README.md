@@ -23,7 +23,7 @@
 
 ### 👨‍💻 About Me
 
-- 🎓 &nbsp; **B.Tech in Information Technology** @ Sarvajanik University, Surat · **CGPA: 8.77 / 10**
+- 🎓 &nbsp; **B.Tech in Information Technology** @ Sarvajanik University, Surat · **CGPA: 8.91 / 10**
 - 💼 &nbsp; Currently **Software Engineer Intern** @ Synodica Solutions Pvt. Ltd.
 - 🔭 &nbsp; Building production full-stack apps with the **MERN stack** and integrating **AI / Gemini APIs**
 - 🛡️ &nbsp; Passionate about **Cybersecurity** — encryption, secure APIs, and network security
@@ -107,7 +107,7 @@
 
 | Role | Company | Duration |
 |------|---------|----------|
-| 💻 Software Engineer Intern | **Synodica Solutions Pvt. Ltd.** | Jan 2026 – Present |
+| 💻 Software Engineer Intern | **Synodica Solutions Pvt. Ltd.** | Jan 2026 – Jun 2026 |
 | 🛡️ Cyber Security Intern | **Elevate Labs** | Jun 2025 – Jul 2025 |
 | 🛡️ Cyber Security Intern | **Extion Infotech** | Aug 2024 – Nov 2024 |
 
@@ -117,6 +117,7 @@
 
 | Certificate | Issuer |
 |------------|--------|
+| 🔐 The Complete React 19 Course, incl. Next JS & Express – Udemy (Coding Revolution) — JUN 2026 |
 | 🔐 Foundations of Cybersecurity | Google |
 | 🔐 Play It Safe: Manage Security Risks | Google |
 | 🔐 Connect and Protect: Networks and Network Security | Google |
@@ -128,7 +129,7 @@
 
 | Degree | Institution | Year | Score |
 |--------|-------------|------|-------|
-| B.Tech — Information Technology | Sarvajanik University, Surat | 2022 – 2026 | CGPA: 8.77 |
+| B.Tech — Information Technology | Sarvajanik University, Surat | 2022 – 2026 | CGPA: 8.91 |
 | HSC (PCM) | Kaushal Vidyabhavan, Surat | 2022 | 76% |
 | SSC | JB & Karp Vidya Sankul, Surat | 2020 | 84.67% |
 
